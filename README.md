@@ -1,4 +1,4 @@
-✨𝑯𝒆𝒚𝒚𝒂, 𝑰 𝒂𝒎 𝑹𝒊𝒅𝒅𝒉𝒊𝒎𝒂 𝑴𝒂𝒕𝒉𝒖𝒓 .<br><br>
+✨𝑯𝒆𝒚𝒚𝒂, 𝑰 𝒂𝒎 𝑹𝒊𝒅𝒅𝒉𝒊𝒎𝒂 𝑴𝒂𝒕𝒉𝒖𝒓.<br><br>
 📚𝗔𝗯𝗼𝘂𝘁 𝗠𝗲<br>🔭 I’m currently working on Data Structures & Algorithms and sharpening my problem‑solving skills.<br>🤝 I’m looking for help with advanced concepts in Computer Networks and Operating Systems.<br>🌱 I’m currently learning CN, OS, and exploring new problem‑solving paradigms.<br>⚡ Fun fact: I enjoy solving puzzles and exploring how algorithms connect to real‑world systems.<br><br>📂 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀<br>🚀 DSA Practice: Solutions to problems across arrays, graphs, trees, linked lists, dynamic programming, and more.<br>🔒 Cybersecurity Experiments: Exploring secure coding practices and basic cryptography implementations.<br>💻 C Advanced Codes: Hands‑on projects and snippets showcasing deeper C programming concepts.<br>🛠️ System Programming (SPP): Experiments with OS concepts, process management, and concurrency.<br><br>🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲<br>𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟 - www.linkedin.com/in/riddhima-mathur-2108rm<br>𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 - https://leetcode.com/u/rxddhi_08/<br>
 
 
